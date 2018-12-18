@@ -10,5 +10,6 @@
   <p>Then Click security setting</p>
   <p>Then Click Less secure app access</p>
   <p>Then it's turn on.</p>
+  <p>For better know.We can : <a href="https://devanswers.co/allow-less-secure-apps-access-gmail-account/">Visit</a></p>
   </body>
   </html>
